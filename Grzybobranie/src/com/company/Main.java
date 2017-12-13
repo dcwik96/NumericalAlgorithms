@@ -15,7 +15,7 @@ public class Main {
 //        STWORZYC MASZRUMY
 
         Game game = new Game(dice, flashcard);
-        game.Play();
+//        game.Play();
 
 
     }
